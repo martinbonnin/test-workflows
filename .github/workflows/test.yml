@@ -6,4 +6,4 @@ jobs:
     name: Build and test
     runs-on: ubuntu-latest
     steps:
-    - run: echo "I am a simple workflow"
+    - run: echo "I am a simple workflow!"
